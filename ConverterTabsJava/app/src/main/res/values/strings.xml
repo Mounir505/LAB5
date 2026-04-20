@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Converter Pro</string>
+
+    <string name="tab_temp">Température</string>
+    <string name="tab_distance">Distance</string>
+
+    <string name="title_distance">Distances</string>
+    <string name="desc_distance">Convertissez facilement vos kilomètres en miles et vice-versa.</string>
+    <string name="km_to_miles">Km → Miles</string>
+    <string name="miles_to_km">Miles → Km</string>
+    <string name="hint_distance">Distance à convertir</string>
+
+    <string name="title_temp">Températures</string>
+    <string name="desc_temp">Convertissez facilement vos degrés Celsius en Fahrenheit et vice-versa.</string>
+    <string name="c_to_f">C → F</string>
+    <string name="f_to_c">F → C</string>
+    <string name="hint_temp">Température à convertir</string>
+
+    <string name="btn_convert">Calculer</string>
+    <string name="result_label">VALEUR CONVERTIE</string>
+    <string name="empty_result">--</string>
+    <string name="error_empty_input">Veuillez entrer une valeur</string>
+
+    <string name="dialog_quit_title">Quitter</string>
+    <string name="dialog_quit_msg">Voulez-vous vraiment quitter l\'application ?</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+</resources>
